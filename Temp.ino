@@ -11,5 +11,5 @@ void loop() {
                     // Wait 1 second
   digitalWrite(LED_BUILTIN, HIGH);   // Turn LED off whys this red
   delay(1000);  
-  // bananas                c
+
 }
